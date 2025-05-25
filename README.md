@@ -34,10 +34,3 @@ Este repositorio contiene las prácticas desarrolladas para la asignatura **Prog
 ## 📚 Estructura Académica
 
 Este repositorio sigue la estructura de prácticas de la asignatura y puede servir como base para estudiantes que deseen reforzar sus conocimientos en el área de sistemas distribuidos.
-
-## 🚀 Cómo usar este repositorio
-
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/matgon/PSD.git
-   cd PSD
